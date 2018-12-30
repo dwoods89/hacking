@@ -1,0 +1,43 @@
+[
+{
+  "directory": "/home/daniel/documents/programs/c/hacking",
+  "command": "cc -g -m32 -c -o pointer_types.o pointer_types.c",
+  "file": "/home/daniel/documents/programs/c/hacking/pointer_types.c"
+}
+,
+{
+  "directory": "/home/daniel/documents/programs/c/hacking",
+  "command": "cc -g -m32 -c -o static2.o static2.c",
+  "file": "/home/daniel/documents/programs/c/hacking/static2.c"
+}
+,
+{
+  "directory": "/home/daniel/documents/programs/c/hacking",
+  "command": "cc -g -m32 -c -o commandline.o commandline.c",
+  "file": "/home/daniel/documents/programs/c/hacking/commandline.c"
+}
+,
+{
+  "directory": "/home/daniel/documents/programs/c/hacking",
+  "command": "cc -g -m32 -c -o convert.o convert.c",
+  "file": "/home/daniel/documents/programs/c/hacking/convert.c"
+}
+,
+{
+  "directory": "/home/daniel/documents/programs/c/hacking",
+  "command": "cc -g -m32 -c -o pointer_types5.o pointer_types5.c",
+  "file": "/home/daniel/documents/programs/c/hacking/pointer_types5.c"
+}
+,
+{
+  "directory": "/home/daniel/documents/programs/c/hacking",
+  "command": "cc -g -m32 -c -o stack_example.o stack_example.c",
+  "file": "/home/daniel/documents/programs/c/hacking/stack_example.c"
+}
+,
+{
+  "directory": "/home/daniel/documents/programs/c/hacking",
+  "command": "cc -g -m32 -c -o convert2.o convert2.c",
+  "file": "/home/daniel/documents/programs/c/hacking/convert2.c"
+}
+]
